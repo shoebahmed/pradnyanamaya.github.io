@@ -513,7 +513,7 @@ ul {
   position: absolute;
   content: "";
   height: 2px;
-  width: 50px;
+  width: 85%;
   left: -30px;
   bottom: 0;
   background-color: #396cf0;
