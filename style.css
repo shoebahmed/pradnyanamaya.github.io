@@ -11262,6 +11262,13 @@ div ~ :last-child .call-to-action-box-layout5 {
 .choose-list-layout1 .panel-default .active .accordion-toggle:after {
   color: #ffffff !important;
 }
+.logo-small{
+ float: left;
+ width: 20%;
+}
+.logo-coming-soon{
+  width: 20%
+}
 /*=======================================================================
 [33] Animation Style        
 =========================================================================*/
