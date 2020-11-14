@@ -1,1 +1,0 @@
-# pradnyanamaya.github.io
